@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**raihannewaz/raihannewaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Raihan Newaz
 
-Here are some ideas to get you started:
+Software Developer | .NET & ASP.NET Core API Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! I build backend applications, REST APIs, and business management systems using the .NET ecosystem.
+
+## Technical Skills
+
+- **Backend:** C#, ASP.NET Core, Web API, REST APIs
+- **Architecture:** Clean Architecture, CQRS, Dependency Injection
+- **Frontend:** Blazor, Angular, TypeScript
+- **Database:** Microsoft SQL Server, T-SQL, Dapper, Entity Framework Core
+- **Tools:** Git, GitHub, Visual Studio, Postman, Swagger
+
+## Featured Projects
+
+Explore my repositories for practical examples of .NET development,
+API architecture, database design, and business applications.
+
+## Connect With Me
+
+- **GitHub:** https://github.com/raihannewaz
+- **LinkedIn:** https://bd.linkedin.com/in/raihannewaz
+- **Instagram:** https://www.instagram.com/raihannewaz_
